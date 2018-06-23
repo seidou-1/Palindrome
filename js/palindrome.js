@@ -13,4 +13,4 @@ function checkForPalindrome(str){
   }
 }
 
-checkForPalindrome ('bobo');
+checkForPalindrome ('bobo');                                                              
