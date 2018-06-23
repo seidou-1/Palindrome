@@ -1,4 +1,5 @@
-//Create a function that will test what we pass to it to see if it's a palindrome. If true, return.. if false return,
+//Create a function that will test what we pass to it to see if it's a palindrome. 
+// If the word is a palindrome, return true.. if not, return false
 
 function checkForPalindrome(str){
   var tester = str;
